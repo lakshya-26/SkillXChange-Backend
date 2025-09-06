@@ -1,0 +1,3 @@
+[submodule "SkillXChange-Backend-Auth"]
+	path = SkillXChange-Backend-Auth
+	url = git@github-second:lakshya-26/SkillXChange-Backend-Auth.git
