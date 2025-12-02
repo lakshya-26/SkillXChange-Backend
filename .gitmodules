@@ -1,3 +1,6 @@
 [submodule "SkillXChange-User-Service"]
 	path = SkillXChange-User-Service
 	url = https://github.com/lakshya-26/SkillXChange-Backend-User-Service.git
+[submodule "SkillXChange-Communication-Service"]
+	path = SkillXChange-Communication-Service
+	url = https://github.com/lakshya-26/SkillXChange-Communication-Service.git
